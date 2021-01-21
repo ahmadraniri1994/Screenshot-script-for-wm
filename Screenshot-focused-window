@@ -1,0 +1,1 @@
+scrot -bu -e 'mv $f ~/shots/'
